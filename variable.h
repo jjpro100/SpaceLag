@@ -1,0 +1,33 @@
+int hero1_size = 50;
+int enemy1_size = 50;
+int boss1_size = 200;
+int timetocreate = 0;
+int timetocreate1 = 0;
+int boomsize = 50;
+int missile1_size=5;
+int bullet_size = 5;
+int rate=0;
+int rate1=0;
+int items=3;
+int itemsize = 20;
+int Score = 0;
+int count = 0;
+int enemiesf = 51;
+int enemiesv = 2;
+int enemies1f = 61;
+int enemies1v = 2;
+int missilesf = 20;
+int missilesv = 5;
+int difficulty = 1;
+int eventhorizon= 150;
+bool blocked = false;
+int pushed = 0;
+bool boss = false;//判斷是否印出boss 
+
+
+int ScoreP1 = 0;
+int ScoreP2 = 0;
+int BlockattackP1 = 0;
+int BlockattackP2 = 0;
+bool BlockedP1 = 0;
+bool BlockedP2 = 0;
